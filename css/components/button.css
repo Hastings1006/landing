@@ -1,0 +1,21 @@
+.btn-treehouse {
+  background-color: #77D970;
+  color: rgb(238, 231, 232);
+  padding: 20px 30px;
+  border-radius: 25px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  box-shadow: rgba(251, 253, 255, 0.2) 0px 8px 24px;
+  margin-top: 20px;
+}
+
+.btn-treehouse:hover {
+  background-color: rgb(224, 236, 224);
+  transition: 1ms;
+  cursor: pointer;
+  color: #77D970;
+}
+
+.btn-treehouse:active {
+  box-shadow: rgba(75, 77, 80, 0) 0px 10px 30px;
+}
